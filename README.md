@@ -1,1 +1,3 @@
-# learning_python
+# Learning Python
+
+Lynda.com course by Joe Marini
